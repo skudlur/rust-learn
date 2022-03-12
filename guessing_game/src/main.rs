@@ -1,3 +1,7 @@
+// This program is to understand basic I/O in rust 
+// This is a guessing game that allows users to take a guess
+// at a random set number within a range.
+
 use rand::Rng;
 use std::cmp::Ordering;
 use std::io;
