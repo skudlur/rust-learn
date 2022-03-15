@@ -1,4 +1,4 @@
-// The program checks out loops
+// The program checks out for loops
 
 fn main() {
     let a = [10,20,30,40,50];
